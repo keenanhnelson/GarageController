@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GarageController-rescue)(type Legacy)(uri ${KIPRJMOD}/GarageController-rescue.lib)(options "")(descr ""))
+)
